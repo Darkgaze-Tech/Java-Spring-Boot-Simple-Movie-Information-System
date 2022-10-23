@@ -1,5 +1,5 @@
 # REST API Movie Information System
-<u>Simple Movie Information System using Java Spring Boot<u>
+> Simple Movie Information System using Java Spring Boot
 
 
 Postman Documentation 

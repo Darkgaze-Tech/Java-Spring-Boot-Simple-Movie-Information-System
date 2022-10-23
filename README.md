@@ -1,4 +1,4 @@
-# REST API Movie Information System
+# REST API of Movie Information System
 > Simple Movie Information System using Java Spring Boot
 
 

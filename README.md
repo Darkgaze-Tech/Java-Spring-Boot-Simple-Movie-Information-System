@@ -1,2 +1,2 @@
-# Java-Spring-Boot-Simple-Movie-Information-System
+# REST API Movie Information System
 Simple Movie Information System using Java Spring Boot

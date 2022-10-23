@@ -44,13 +44,13 @@
 <p> Get all movie </p></br>
 <img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_movie.png" width=100% height=100%></br>
 <p> Get movie by id </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_movie.png" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_movie_by_id.png" width=100% height=100%></br>
 <p> Create movie </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_movie.png" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/create_movie.png" width=100% height=100%></br>
 <p> Update movie </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_movie.png" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/update_movie_by_id.png"  width=100% height=100%></br>
 <p> Delete movie </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_movie.png" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/delete_movie_by_id.png"  width=100% height=100%></br>
 
 
 
@@ -59,13 +59,13 @@
 <p> Get all review </p></br>
 <img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_review.png" width=100% height=100%></br>
 <p> Get review by id </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_review.png" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_review_by_id.png" width=100% height=100%></br>
 <p> Create review </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_review.png" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/create_review.png" width=100% height=100%></br>
 <p> Update review </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_review.png" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/update_review_by_id.png"  width=100% height=100%></br>
 <p> Delete review </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_review.png" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/delete_review_by_id.png"  width=100% height=100%></br>
 
 
 ### Jwt Token

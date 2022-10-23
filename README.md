@@ -8,6 +8,14 @@
 ### Register
 
 <p> Create user </p></br>
+<p float="left">
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System
+/blob/documentation_image/register_admin.png" hspace="20" width=20% height=20%>
+  <span> </span>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System
+/blob/documentation_image/register_user.png" hspace="20" width=20% height=20%>
+</p>
+<br />
 
 
 ### Login

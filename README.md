@@ -5,7 +5,7 @@
 ## Documentation 
 
 | Method | Url | Role Privilege | Action |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | `POST` | http://localhost:8080/api/v1/auth/register | ALL | Register admin / user |
 | `POST` | http://localhost:8080/api/v1/auth/login | ALL | Login admin / user |
 | `GET` | http://localhost:8080/api/v1/genre | ALL | Get all genre |

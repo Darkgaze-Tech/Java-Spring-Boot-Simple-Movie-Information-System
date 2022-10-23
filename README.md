@@ -10,7 +10,7 @@
 <p> Create user </p></br>
 <p float="left">
 <img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/register_admin.png" hspace="20" width=100% height=100%>
-  <span> </span>
+  <span> </br> </span>
 <img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/register_user.png" hspace="20" width=100% height=100%>
 </p>
 <br />

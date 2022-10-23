@@ -7,11 +7,11 @@
 
 ### Register
 
-<p> Create user </p></br>
+<p> Create user </p>
 <p float="left">
 <img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/register_admin.png" width=100% height=100%>
   <span> </br> </span>
-<p> Create admin </p></br>
+<p> Create admin </p>
 <img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/register_user.png" width=100% height=100%>
 </p>
 <br />
@@ -19,11 +19,11 @@
 
 ### Login
 
-<p> Login user </p></br>
+<p> Login user </p>
 <p float="left">
 <img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/login_admin.png" width=100% height=100%>
   <span> </br> </span>
-<p> Login admin </p></br>
+<p> Login admin </p>
 <img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/login_user.png" width=100% height=100%>
 </p>
 

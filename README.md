@@ -20,23 +20,23 @@
 
 <p> Login user </p></br>
 <p float="left">
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/login_admin.png" hspace="20" width=100% height=100%>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/login_admin.png" width=100% height=100%>
   <span> </br> </span>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/login_user.png" hspace="20" width=100% height=100%>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/login_user.png" width=100% height=100%>
 </p>
 
 ### Genre
 
 <p> Get all genre </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_genre.png" hspace="20" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_genre.png" width=100% height=100%></br>
 <p> Get genre by id </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_genre_by_id.png" hspace="20" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_genre_by_id.png" width=100% height=100%></br>
 <p> Create genre </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/create_genre.png" hspace="20" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/create_genre.png" width=100% height=100%></br>
 <p> Update genre </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/update_genre_by_id.png" hspace="20" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/update_genre_by_id.png"  width=100% height=100%></br>
 <p> Delete genre </p></br>
-<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/delete_genre_by_id.png" hspace="20" width=100% height=100%></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/delete_genre_by_id.png"  width=100% height=100%></br>
 
 
 ### Movie

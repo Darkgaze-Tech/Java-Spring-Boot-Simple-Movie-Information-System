@@ -28,10 +28,15 @@
 ### Genre
 
 <p> Get all genre </p></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_all_genre.png" hspace="20" width=100% height=100%></br>
 <p> Get genre by id </p></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/get_genre_by_id.png" hspace="20" width=100% height=100%></br>
 <p> Create genre </p></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/create_genre.png" hspace="20" width=100% height=100%></br>
 <p> Update genre </p></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/update_genre_by_id.png" hspace="20" width=100% height=100%></br>
 <p> Delete genre </p></br>
+<img src="https://github.com/Darkgaze-Tech/Java-Spring-Boot-Simple-Movie-Information-System/blob/main/documentation_image/delete_genre_by_id.png" hspace="20" width=100% height=100%></br>
 
 
 ### Movie

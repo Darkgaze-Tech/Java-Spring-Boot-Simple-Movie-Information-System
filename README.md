@@ -6,8 +6,9 @@
 
 | Method | Url | Action |
 | --- | --- | --- |
-| `git status` | List all *new or modified* files | A
-| `git diff` | Show file differences that **haven't been** staged | A
+| `POST` | http://localhost:8080/api/v1/auth/register | Register Admin / User |
+| `POST` | http://localhost:8080/api/v1/auth/login | Login Admin / User |
+| `POST` | http://localhost:8080/api/v1/auth/login | Login Admin / User |
 
 
 ## Details

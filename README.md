@@ -2,4 +2,22 @@
 > Simple Movie Information System using Java Spring Boot
 
 
-## Postman Documentation 
+## Documentation 
+
+
+### Register
+
+
+### Login
+
+
+### Genre
+
+
+### Movie
+
+
+### Review
+
+
+
